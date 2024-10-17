@@ -1,4 +1,4 @@
-# Ponderada 01 - Arduino
+# Pa 01 - Arduino
 
 Este projeto é uma atividade simples com o objetivo de fazer um LED piscar (blink) usando um Arduino.
 
